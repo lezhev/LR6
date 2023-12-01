@@ -1,12 +1,12 @@
 # LR6
 Лабораторная работа №6
 
-# Цель лабораторной работы:
+## Цель лабораторной работы:
 Изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
 
-# Ход работы
+## Ход работы
 
-# История операций
+### История операций
 b35dc7b - 2023-12-01 - Matvey: mergefile updated
 d37f1d5 - 2023-12-01 - Matvey: merge problem resolved
 89707d7 - 2023-12-01 - lezhev: Add files via upload
@@ -15,7 +15,7 @@ d37f1d5 - 2023-12-01 - Matvey: merge problem resolved
 c08a654 - 2020-11-21 - Kurtyanik: Файл создан пустым
 3c6e913 - 2020-11-21 - Kurtyanik: Initial commit
 
-# Лог команд
+### Лог команд
 cd c:/Git
 git clone https://github.com/Lezhev/LR6
 cd lr6
@@ -43,9 +43,12 @@ git add .
 git commit -m "Added log"
 git push origin report-branch
 
-# Изображения консоли
+### Изображения консоли
 
 ![scr 1](/scrs/Screenshot_1.png)
 ![scr 2](/scrs/Screenshot_2.png)
 ![scr 3](/scrs/Screenshot_3.png)
 ![scr 4](/scrs/Screenshot_4.png)
+
+## Вывод: 
+Я изучил базовые возможности системы управления версиями, получил опыт работы с Git Api и опыт работы с локальным и удаленным репозиторием.  
