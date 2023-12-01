@@ -40,7 +40,7 @@ git commit -m "Added name, goal of work and histori of operations, modify readme
 git add .
 git commit -m "Added screenshots"
 git add .
-git commit -m "Finalized readme.md"
+git commit -m "Added log"
 git push origin report-branch
 
 # Изображения консоли
