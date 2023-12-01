@@ -38,7 +38,14 @@ git log --pretty=format:"%h - %ad - %an: %s" --date=short
 git add .
 git commit -m "Added name, goal of work and histori of operations, modify readme.md"
 git add .
-git commit -m "Added some screenshots"
+git commit -m "Added screenshots"
 git add .
 git commit -m "Finalized readme.md"
 git push origin report-branch
+
+# Изображения консоли
+
+![scr 1](/scrs/Screenshot_1.png)
+![scr 2](/scrs/Screenshot_2.png)
+![scr 3](/scrs/Screenshot_3.png)
+![scr 4](/scrs/Screenshot_4.png)
